@@ -1,0 +1,2 @@
+# bootcamp-activities
+Bootcamp activities
